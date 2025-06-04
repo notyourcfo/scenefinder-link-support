@@ -1,0 +1,25 @@
+# Node.js dependencies 
+node_modules/ 
+npm-debug.log 
+yarn-error.log 
+ 
+# Sensitive files 
+scenefinder-apify-dd6ad5e1066b.json 
+.env 
+ 
+# Logs and temporary files 
+*.log 
+*.tmp 
+ 
+# Editor and IDE files 
+.vscode/ 
+.idea/ 
+*.swp 
+ 
+# OS-generated files 
+.DS_Store 
+Thumbs.db 
+ 
+# Build artifacts (if any) 
+dist/ 
+build/ 
