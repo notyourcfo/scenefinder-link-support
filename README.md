@@ -1,9 +1,9 @@
 # SceneFinder Apify
 
-A Node.js service to download Instagram Reels, convert them to MP3, upload to Google Cloud Storage, and send to the SceneFinder API for further processing. Built with Express, Apify, Google Cloud Storage, FFmpeg, and Axios.
+This is a Node.js service to download Instagram Reels, convert them to MP3, upload to Google Cloud Storage, and send to the SceneFinder API for further processing. Built with Express, Apify, Google Cloud Storage, FFmpeg, and Axios.
 
 ## Features
-- Download Instagram Reels using Apify
+- Download Instagram Reels using Apify actor.
 - Convert video to MP3 using FFmpeg
 - Upload MP3 to Google Cloud Storage
 - Send MP3 to SceneFinder API
