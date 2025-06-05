@@ -13,7 +13,7 @@ console.log('FFmpeg path set to:', ffmpeg.ffmpegPath);
 
 // Initialize Apify client
 const client = new ApifyClient({
-  token: 'apify_api_WqUE8Ma79ZrFseU0qlIy6aUxYaXTga1HQwoA'
+  token: '//put your apify token right here'
 });
 
 // Initialize Google Cloud Storage with explicit key path
